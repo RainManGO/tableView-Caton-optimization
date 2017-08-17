@@ -13,6 +13,9 @@
 		189FE2071EE8F636005E37F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189FE2051EE8F636005E37F9 /* Main.storyboard */; };
 		189FE2091EE8F636005E37F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189FE2081EE8F636005E37F9 /* Assets.xcassets */; };
 		189FE20C1EE8F636005E37F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189FE20A1EE8F636005E37F9 /* LaunchScreen.storyboard */; };
+		189FE2141EE8FC51005E37F9 /* timg-6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 189FE2131EE8FC51005E37F9 /* timg-6.jpeg */; };
+		189FE2161EE901D8005E37F9 /* 2012081210372.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189FE2151EE901D8005E37F9 /* 2012081210372.jpg */; };
+		189FE21A1EE902AE005E37F9 /* timg-7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 189FE2191EE902AE005E37F9 /* timg-7.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		189FE2081EE8F636005E37F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189FE20B1EE8F636005E37F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		189FE20D1EE8F636005E37F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189FE2131EE8FC51005E37F9 /* timg-6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-6.jpeg"; sourceTree = "<group>"; };
+		189FE2151EE901D8005E37F9 /* 2012081210372.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2012081210372.jpg; sourceTree = "<group>"; };
+		189FE2191EE902AE005E37F9 /* timg-7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-7.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +80,9 @@
 		189FE1FC1EE8F636005E37F9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				189FE2191EE902AE005E37F9 /* timg-7.jpeg */,
+				189FE2151EE901D8005E37F9 /* 2012081210372.jpg */,
+				189FE2131EE8FC51005E37F9 /* timg-6.jpeg */,
 				189FE1FD1EE8F636005E37F9 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -140,7 +149,10 @@
 			files = (
 				189FE20C1EE8F636005E37F9 /* LaunchScreen.storyboard in Resources */,
 				189FE2091EE8F636005E37F9 /* Assets.xcassets in Resources */,
+				189FE21A1EE902AE005E37F9 /* timg-7.jpeg in Resources */,
+				189FE2161EE901D8005E37F9 /* 2012081210372.jpg in Resources */,
 				189FE2071EE8F636005E37F9 /* Main.storyboard in Resources */,
+				189FE2141EE8FC51005E37F9 /* timg-6.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
